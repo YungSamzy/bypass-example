@@ -6,5 +6,5 @@ Addresses to Patch:
   0x00007FF71F198428: 15 -> 00 // no op to save bytes
   ```
 Try to patch it yourself!
-Compiled and bypassed binaries are in Releases!  
+Compiled and bypassed binaries are in [Releases](https://github.com/YungSamzy/bypass-example/releases/latest)!  
 C++ 20 STD used, not that it really matters... 
